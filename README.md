@@ -64,7 +64,7 @@ Feel Free To Message Me Anytime!
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">

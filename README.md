@@ -15,6 +15,8 @@
 
 **Brick by Brick:** [Transformation Blog](https://github.com/WilderDev/Brick_by_Brick---Blog)
 
+---
+
 ## 🌍 Web Locations 
 [<img align="left" alt="William Wilder Github Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://www.willwilder.com)
 [<img align="left" alt="William Wilder LinkedIn Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/william-wilder-4ab634206/)
@@ -23,6 +25,8 @@
 Feel Free To Message Me Anytime!
 
 -----
+
+<br>
 
 ## ⚒ Tech Stack
 

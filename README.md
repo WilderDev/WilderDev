@@ -33,44 +33,53 @@ Feel Free To Message Me Anytime!
 <table>
   <tbody>
     <tr valign="center">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+            <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-    </tr>
-    <tr valign="center">
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="center">
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="center">
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+    </tr>
+    <tr valign="center">
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
+      </td>
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/strapi.svg">
+      </td>
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
       </td>
     </tr>

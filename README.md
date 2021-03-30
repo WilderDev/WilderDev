@@ -11,7 +11,7 @@
 
 **Lady-Bites:** [Bakery Blog](https://github.com/WilderDev/Lady-Bites_Blog)
 
-**William Wilder:** [Portfolio Page](https://github.com/WilderDev/Personal-Portfolio)
+**William Wilder:** [Portfolio Page](https://github.com/WilderDev/WW---Personal-Portfolio)
 
 **Brick by Brick:** [Transformation Blog](https://github.com/WilderDev/Brick_by_Brick---Blog)
 

@@ -5,15 +5,17 @@
 
 ## 💻 Web-Dev Projects
 
+**William Wilder:** [Portfolio Page](https://github.com/WilderDev/WW---Personal-Portfolio)
+
+**Lady-Bites:** [Bakery Blog](https://github.com/WilderDev/Lady-Bites_Blog)
+
 **Eternal-Journal:** [Ecommerce Store](https://github.com/WilderDev/eternal-journal-ecommerce-PWA)
 
 **Link-Think:** [Documentation Website](https://github.com/WilderDev/Link-Think)
 
-**Lady-Bites:** [Bakery Blog](https://github.com/WilderDev/Lady-Bites_Blog)
-
-**William Wilder:** [Portfolio Page](https://github.com/WilderDev/WW---Personal-Portfolio)
-
 **Brick by Brick:** [Transformation Blog](https://github.com/WilderDev/Brick_by_Brick---Blog)
+
+**Cypher Hop:** [React Application](https://github.com/WilderDev/Cypher-Hop)
 
 ---
 

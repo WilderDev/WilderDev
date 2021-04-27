@@ -11,10 +11,6 @@
 
 **Eternal-Journal:** [Ecommerce Store](https://github.com/WilderDev/eternal-journal-ecommerce-PWA)
 
-**Link-Think:** [Documentation Website](https://github.com/WilderDev/Link-Think)
-
-**Brick by Brick:** [Transformation Blog](https://github.com/WilderDev/Brick_by_Brick---Blog)
-
 **Cypher Hop:** [React Application](https://github.com/WilderDev/Cypher-Hop)
 
 ---

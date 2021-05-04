@@ -75,7 +75,7 @@ Feel Free To Message Me Anytime!
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/strapi.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">

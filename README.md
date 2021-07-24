@@ -34,7 +34,7 @@ Feel Free To Message Me Anytime!
   <tbody>
     <tr valign="center">
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
@@ -51,7 +51,7 @@ Feel Free To Message Me Anytime!
     </tr>
     <tr valign="center">
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
       </td>
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
@@ -80,7 +80,7 @@ Feel Free To Message Me Anytime!
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>
     </tr>
   </tbody>

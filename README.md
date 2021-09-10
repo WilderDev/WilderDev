@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-## 💻 Repositories for Students
+## 💻 Repositories Quick Links
 
 **Angular Bootcamp Application (Students):** [BookIt App](https://github.com/WilderDev/Angular-Bootcamp_Students-App)
 

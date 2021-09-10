@@ -11,7 +11,7 @@
 
 ---
 
-## 🌍 Web Locations 
+<!-- ## 🌍 Web Locations  -->
 
 <!-- [<img align="left" alt="William Wilder Github Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://www.willwilder.com)
 
@@ -19,20 +19,20 @@
 
 [<img align="left" alt="William Wilder Email Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />](mailto:WilliamJohnWilder@outlook.com) -->
 
-### Missouri Cohorts
+### Missouri Cohort Coaches
 
-**Nolan (Code Coach)**
+**Nolan**
 - Slack: @Nolan Hovis
 
-**Will (Code Coach)**
+**Will**
 - Slack: @William Wilder
 
-### Kentucky Cohorts
+### Kentucky Cohort Coaches
 
-**German (Code Coach)**
+**German**
 - Slack: @German Cruz
 
-**Lex (Code Coach)**
+**Lex**
 - Slack: @Lex Pryor
 
 -----

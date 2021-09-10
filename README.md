@@ -3,17 +3,11 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-## 💻 Web-Dev Projects
+## 💻 Repositories for Students
 
-**William Wilder:** [Portfolio Site](https://github.com/WilderDev/Will_Wilder-Web_Dev)
+**Angular Bootcamp Application (Students):** [BookIt App](https://github.com/WilderDev/Angular-Bootcamp_Students-App)
 
-**Lady-Bites:** [Bakery Blog](https://github.com/WilderDev/Lady-Bites_Blog)
-
-**Eternal-Journal:** [Ecommerce Store](https://github.com/WilderDev/eternal-journal-ecommerce-PWA)
-
-**Cypher Hop:** [React Application](https://github.com/WilderDev/Cypher-Hop)
-
-**Devign:** [Marketing Page](https://github.com/WilderDev/Devign)
+**Angular Bootcamp Notes (Students):** [Class Notes](https://github.com/WilderDev/Angular-Bootcamp_Students-Notes)
 
 ---
 
@@ -34,7 +28,7 @@ Feel Free To Message Me Anytime!
   <tbody>
     <tr valign="center">
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
@@ -79,8 +73,8 @@ Feel Free To Message Me Anytime!
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-      <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
+       <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
   </tbody>

@@ -12,11 +12,28 @@
 ---
 
 ## 🌍 Web Locations 
-[<img align="left" alt="William Wilder Github Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://www.willwilder.com)
-[<img align="left" alt="William Wilder LinkedIn Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/william-wilder-web-dev)
-[<img align="left" alt="William Wilder Email Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />](mailto:WilliamJohnWilder@outlook.com)
 
-Feel Free To Message Me Anytime!
+<!-- [<img align="left" alt="William Wilder Github Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://www.willwilder.com)
+
+[<img align="left" alt="William Wilder LinkedIn Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/william-wilder-web-dev)
+
+[<img align="left" alt="William Wilder Email Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />](mailto:WilliamJohnWilder@outlook.com) -->
+
+### Missouri Cohorts
+
+**Nolan (Code Coach)**
+- Slack: @Nolan Hovis
+
+**Will (Code Coach)**
+- Slack: @William Wilder
+
+### Kentucky Cohorts
+
+**German (Code Coach)**
+- Slack: @German Cruz
+
+**Lex (Code Coach)**
+- Slack: @Lex Pryor
 
 -----
 
@@ -39,16 +56,19 @@ Feel Free To Message Me Anytime!
             <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="20%" align="center">
+<!--       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
+      </td> -->
     </tr>
     <tr valign="center">
-      <td width="20%" align="center">
+<!--       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
-      </td>
-      <td width="20%" align="center">
+      </td> -->
+<!--       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td> -->
+            <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -61,12 +81,12 @@ Feel Free To Message Me Anytime!
       </td>
     </tr>
     <tr valign="center">
-      <td width="20%" align="center">
+<!--       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="20%" align="center">
+      </td> -->
+<!--       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
-      </td>
+      </td> -->
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
@@ -74,8 +94,14 @@ Feel Free To Message Me Anytime!
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
        <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
+       <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+<!--        <td width="20%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td> -->
     </tr>
   </tbody>
 </table>

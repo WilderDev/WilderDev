@@ -9,7 +9,7 @@
 
 **Angular Bootcamp Notes (Students):** [Class Notes](https://github.com/WilderDev/Angular-Bootcamp_Students-Notes)
 
-**Angular Bootcamp Projects (Students):** [Course Projects](https://github.com/WilderDev/Angular-Bootcamp-Examples)
+**Angular Bootcamp Projects (Students):** [Course Projects](https://github.com/WilderDev/Angular-Bootcamp-Exercises)
 
 ---
 

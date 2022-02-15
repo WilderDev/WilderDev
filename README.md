@@ -1,17 +1,21 @@
 # 👋 Hi, Codefi Bootcamp Students
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 
 ## 💻 Repositories Quick Links
 
-**Angular Bootcamp Application (Students):** [BookIt App](https://github.com/WilderDev/Angular-Bootcamp_Students-App)
+<!-- **Angular Bootcamp Application (Students):** [BookIt App](https://github.com/WilderDev/Angular-Bootcamp_Students-App)
+ -->
+ 
+**Codefi Bootcamp Notes (Students):** [Class Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes)
 
-**Angular Bootcamp Notes (Students):** [Class Notes](https://github.com/WilderDev/Angular-Bootcamp_Students-Notes)
-
-**Angular Bootcamp Projects (Students):** [Course Projects](https://github.com/WilderDev/Angular-Bootcamp-Exercises)
+<!-- **Angular Bootcamp Projects (Students):** [Course Projects](https://github.com/WilderDev/Angular-Bootcamp-Exercises) -->
 
 ---
+
+<img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 <!-- ## 🌍 Web Locations  -->
 
@@ -21,25 +25,9 @@
 
 [<img align="left" alt="William Wilder Email Link" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />](mailto:WilliamJohnWilder@outlook.com) -->
 
-### Missouri Cohort Coaches
+<!-- ---
 
-**Nolan**
-- Slack: @Nolan Hovis
-
-**Will**
-- Slack: @William Wilder
-
-### Kentucky Cohort Coaches
-
-**German**
-- Slack: @German Cruz
-
-**Lex**
-- Slack: @Lex Pryor
-
------
-
-<br>
+<br> -->
 
 ## ⚒ Tech Stack
 

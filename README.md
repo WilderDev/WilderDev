@@ -10,6 +10,8 @@
  
 **Codefi Bootcamp Notes (Students):** [Class Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes)
 
+**Codefi Bootcamp Course Project (Students):** [Class Project](https://github.com/WilderDev/Book-It-Application--Codefi-Bootcamp)
+
 <!-- **Angular Bootcamp Projects (Students):** [Course Projects](https://github.com/WilderDev/Angular-Bootcamp-Exercises) -->
 
 ---

@@ -6,11 +6,13 @@
 ## 🤓 About
 
  
-Currently, a **Software Developer** and **Code Coach** at _Codefi_, helping others master front-end development and building really cool software.
+**Software Developer** and **Code Coach** at _Codefi_, helping others master front-end development and building really cool software.
 
 I have helped hundreds land their first jobs by teaching coding Bootcamps in top universities and programs, and I am continuously improving my coding and teaching skills to guide the new wave of programmers.
 
-Also, Founder and Lead Dev at **[Learnly](https://app.learnly.ai)**.
+Avid contributor to **[NextJS](https://nextjs.org/)**
+
+Founder and Lead Dev at **[Learnly](https://app.learnly.ai)**.
 
 ---
 

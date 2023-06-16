@@ -1,4 +1,4 @@
-# 🚀 Hello, World.
+# 🚀 Hello, World! I'm Will...
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -6,9 +6,11 @@
 ## 🤓 About
 
  
-Currently, a **Software Developer** and **Code Coach** at _Codefi_, and my passion is helping others master front-end development. 
+Currently, a **Software Developer** and **Code Coach** at _Codefi_, helping others master front-end development and building really cool software.
 
 I have helped hundreds land their first jobs by teaching coding Bootcamps in top universities and programs, and I am continuously improving my coding and teaching skills to guide the new wave of programmers.
+
+Also, Founder and Lead Dev at **[Learnly](https://app.learnly.ai)**.
 
 ---
 
@@ -18,6 +20,8 @@ I have helped hundreds land their first jobs by teaching coding Bootcamps in top
 **Email(s)**: WilliamJohnWilder@outlook.com || will@codefiworks.com
 
 **Website**: https://www.willwilder.com
+
+**LinkedIn**: https://www.linkedin.com/in/william-wilder-web-dev/
 
 ---
 
@@ -41,16 +45,16 @@ I have helped hundreds land their first jobs by teaching coding Bootcamps in top
     </tr>
     <tr valign="center">
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
       </td>
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
     </tr>
     <tr valign="center">
@@ -64,13 +68,22 @@ I have helped hundreds land their first jobs by teaching coding Bootcamps in top
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
        <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/rails.svg">
       </td>
     </tr>
   </tbody>
 </table>
 
+---
 
-<!--- ### Check out My Blog Posts
-https://github.com/Souravdey777/Github-Cards-External-Blogs --->
+<!--- 
+## ⚒ GitHub Stats
+
+<div margin="0 auto">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilderdev&" alt="wilderdev" /></p>
+</div>
+
+### Check out My Blog Posts
+https://github.com/Souravdey777/Github-Cards-External-Blogs 
+--->
 
